@@ -1,0 +1,58 @@
+export const part3 = [
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1458_soevyy-sous.jpg",
+    title: "УНАГИ СОУС",
+    gramm: "Вес: 30 г",
+    price: "40.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1441_orekhovyy-sous.jpg",
+    title: "ОРЕХОВЫЙ СОУС",
+    gramm: "Вес: 30 г",
+    price: "30.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1442_sous-shriracha.jpg",
+    title: "СОУС ШРИРАЧА",
+    gramm: "Вес: 30 г",
+    price: "40.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1457_soevyy-sous.jpg",
+    title: "СОЕВЫЙ СОУС",
+    gramm: "Вес: 35 г",
+    price: "245.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1457_soevyy-sous.jpg",
+    title: "СОЕВЫЙ СОУС",
+    gramm: "Вес: 100  г",
+    price: "60.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1459_imbir-.jpg",
+    title: "ИМБИРЬ",
+    gramm: "Вес: 39 г",
+    price: "50.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1460_vasabi.jpg",
+    title: "ВАСАБИ",
+    gramm: "Вес: 15  г",
+    price: "30.",
+    cherta: "",
+  },
+  {
+    img: "https://takamura-eats.ru/userfls/shop/small/1459_imbir-.jpg",
+    title: "ИМБИРЬ",
+    gramm: "Вес: 26 г",
+    price: "30.",
+    cherta: "",
+  },
+];

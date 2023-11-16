@@ -1,0 +1,200 @@
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-ExtraLightItalic.woff2') format('woff2'),
+        url('VictorMono-ExtraLightItalic.woff') format('woff'),
+        url('VictorMono-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Bold.woff2') format('woff2'),
+        url('VictorMono-Bold.woff') format('woff'),
+        url('VictorMono-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-ExtraLightOblique.woff2') format('woff2'),
+        url('VictorMono-ExtraLightOblique.woff') format('woff'),
+        url('VictorMono-ExtraLightOblique.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-BoldItalic.woff2') format('woff2'),
+        url('VictorMono-BoldItalic.woff') format('woff'),
+        url('VictorMono-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-ExtraLight.woff2') format('woff2'),
+        url('VictorMono-ExtraLight.woff') format('woff'),
+        url('VictorMono-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-LightItalic.woff2') format('woff2'),
+        url('VictorMono-LightItalic.woff') format('woff'),
+        url('VictorMono-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-LightOblique.woff2') format('woff2'),
+        url('VictorMono-LightOblique.woff') format('woff'),
+        url('VictorMono-LightOblique.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono Oblique';
+    src: url('VictorMono-BoldOblique.woff2') format('woff2'),
+        url('VictorMono-BoldOblique.woff') format('woff'),
+        url('VictorMono-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Italic.woff2') format('woff2'),
+        url('VictorMono-Italic.woff') format('woff'),
+        url('VictorMono-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Light.woff2') format('woff2'),
+        url('VictorMono-Light.woff') format('woff'),
+        url('VictorMono-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Regular.woff2') format('woff2'),
+        url('VictorMono-Regular.woff') format('woff'),
+        url('VictorMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-SemiBoldOblique.woff2') format('woff2'),
+        url('VictorMono-SemiBoldOblique.woff') format('woff'),
+        url('VictorMono-SemiBoldOblique.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Thin.woff2') format('woff2'),
+        url('VictorMono-Thin.woff') format('woff'),
+        url('VictorMono-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-MediumItalic.woff2') format('woff2'),
+        url('VictorMono-MediumItalic.woff') format('woff'),
+        url('VictorMono-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-Medium.woff2') format('woff2'),
+        url('VictorMono-Medium.woff') format('woff'),
+        url('VictorMono-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-SemiBold.woff2') format('woff2'),
+        url('VictorMono-SemiBold.woff') format('woff'),
+        url('VictorMono-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-SemiBoldItalic.woff2') format('woff2'),
+        url('VictorMono-SemiBoldItalic.woff') format('woff'),
+        url('VictorMono-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono Oblique';
+    src: url('VictorMono-Oblique.woff2') format('woff2'),
+        url('VictorMono-Oblique.woff') format('woff'),
+        url('VictorMono-Oblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-MediumOblique.woff2') format('woff2'),
+        url('VictorMono-MediumOblique.woff') format('woff'),
+        url('VictorMono-MediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Victor Mono';
+    src: url('VictorMono-ThinOblique.woff2') format('woff2'),
+        url('VictorMono-ThinOblique.woff') format('woff'),
+        url('VictorMono-ThinOblique.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
